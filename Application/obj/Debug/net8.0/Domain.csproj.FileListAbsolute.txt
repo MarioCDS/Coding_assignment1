@@ -1,0 +1,11 @@
+C:\Users\mario\source\repos\new solution\BJSS\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mario\source\repos\new solution\BJSS\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\mario\source\repos\new solution\BJSS\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\mario\source\repos\new solution\BJSS\Domain\obj\Debug\net8.0\ref\Domain.dll
